@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/mariangeo/",
   medium: "",
   twitter: "",
-  youTube: "Cde",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
