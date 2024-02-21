@@ -29,10 +29,10 @@ const siteProps = {
   email: "mariangeorgek2015@gmail.com",
   gitHub: "https://github.com/ShotgunShinobi",
   instagram: "",
-  linkedIn: "satyanadella",
+  linkedIn: "https://www.linkedin.com/in/mariangeo/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "Cde",
 };
 
 const primaryColor = "#4E567E";
