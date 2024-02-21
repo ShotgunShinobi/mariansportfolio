@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  " I am a third year computer science student who is very inquisitive and curious by nature. I believe in incorporating smarter and more efficient ways, all the while working hard to get the maximum result. My work ethics and prudence has been appreciated by teachers and colleagues alike.  ";
+  " I am a third year computer science student who is very inquisitive and curious by nature. I believe in incorporating smarter and more efficient ways, all the while working hard to get the maximum result. My work ethics and prudence has been appreciated by teachers and colleagues alike.";
 
 const About = () => {
   return (

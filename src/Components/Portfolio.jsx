@@ -33,25 +33,25 @@ const projectList = [
   {
     title: "NA",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "NA",
     url: "",
   },
   {
     title: "NA",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "NA",
     url: "NA",
   },
   {
     title: "NA",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "NA",
     url: "NA",
   },
   {
     title: "NA",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "NA",
     url: "NA",
   },
 ];
