@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "NA",
+    title: "Investment Reccomendation using Machine Learning",
     description:
-      "NA",
-    url: "",
+      "Investment recommendation system using GPT3.5 to recommend stocks to invest in.",
+    url: "NA",
   },
   {
     title: "NA",
