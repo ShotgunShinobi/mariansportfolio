@@ -34,7 +34,7 @@ const projectList = [
     title: "Investment Reccomendation using Machine Learning",
     description:
       "Investment recommendation system using GPT3.5 to recommend stocks to invest in.",
-    url: "NA",
+    url: "https://github.com/ShotgunShinobi/StockAI",
   },
   {
     title: "NA",
