@@ -16,7 +16,7 @@ import "./styles.css";
 
 /**
  * This object represents your information. The project is set so that you
- * only need to update these here, and values are passed a properties to the
+ * only need to update these here, and values are passed as properties to the
  * components that need that information.
  *
  * Update the values below with your information.
@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Marian George",
-  title: "AI ML Enthisiast, Alpha Microsoft Student Ambassador, Open Source Enthusiast",
+  title: "AI ML Enthusiast, Alpha Microsoft Student Ambassador, Open Source Enthusiast",
   email: "mariangeorgek2015@gmail.com",
-  gitHub: "https://github.com/ShotgunShinobi",
+  gitHub: "ShotgunShinobi",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/mariangeo/",
+  linkedIn: "mariangeo",
   medium: "",
   twitter: "",
   youTube: "",
