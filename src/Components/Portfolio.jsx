@@ -37,10 +37,10 @@ const projectList = [
     url: "https://github.com/ShotgunShinobi/StockAI",
   },
   {
-    title: "NA",
+    title: "AI-Text-Summarizer",
     description:
-      "NA",
-    url: "NA",
+      "A text summerizer leveraging LLMs.",
+    url: "https://github.com/ShotgunShinobi/AI-Text-Summarizer",
   },
   {
     title: "NA",
